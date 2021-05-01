@@ -1,0 +1,69 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    color:blue;
+    box-shadow: 10px 10px 10px green;
+}
+.note 
+{
+    font-size: 17px;
+    color: blueviolet;
+}
+body
+{
+    background-size: contain;
+    font-family: 'Pacifico', cursive;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 2;
+    text-align: center;
+    box-shadow: 20px 20px 20px 20px aqua;
+    font-size: 20px;
+}
+.div_speed
+{
+    float: left;
+}
+.div_speed_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed
+{
+    font-size: 23px;
+    margin: 15px;
+}
+.div_volume
+{
+    float: right;
+}
+.div_volume_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+#volume
+{
+    font-size: 23px;
+    margin: 15px;
+}
+.play_button
+{
+    width: 230px;
+    font-size: 25px;
+}
+canvas
+{
+    border: 5px;
+    border-radius: 20px;
+    border-style:ridge;
+}
